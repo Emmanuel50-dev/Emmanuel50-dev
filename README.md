@@ -12,7 +12,7 @@
    - Exporing Modern Data Stack (dbt, Airbyte, Databricks)
    - Azure Cloud (Already worked with AWS & GCP)
    - How to architectect better data system 
-- 📫 Here's how you can reach me: [Twitter](https://twitter.com/DataLogicLabs1) | [LinkedIn](www.linkedin.com/in/auko-emmanuel-744a61265)
+- 📫 Here's how you can reach me: [Twitter](https://twitter.com/DataLogicLabs1) | [LinkedIn](https://www.linkedin.com/in/auko-emmanuel/)
 - 🤘 Here are my Open Source contributions so far: I keep building projects and tutorials for my YouTube channel, here are some
   - [YouTube Analysis End-To-End Data Engineering Project using Python and AWS](https://github.com/darshilparmar/dataengineering-youtube-analysis-project)
   - [Twitter Data Pipeline using Airflow](https://github.com/darshilparmar/twitter-airflow-data-engineering-project)
