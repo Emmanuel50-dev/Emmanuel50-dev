@@ -7,7 +7,7 @@ Software Engineer
 I am a Passionate Python developer with experience in software development, data analysis, and machine learning.
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🖥️  See my portfolio at [Myportfolio](https://github.com/Emmanuel50-dev?tab=repositories)
+* 🖥️  See my portfolio  [Myportfolio](https://github.com/Emmanuel50-dev?tab=repositories)
 * ✉️  You can contact me at [here](mailto:aukoemmanuel50@gmail.com)
 * 🧠  I'm currently learning Azure Cloud (already worked with AWS & GCP)
 * 🤝  I'm open to collaborating on Python-based software development projects
