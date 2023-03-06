@@ -3,7 +3,6 @@
 ## Thanks for stopping by. Here's a little bit about myself...
 
 
-- 😄 My pronouns are: He/His/Him
 - 🔭 I’m currently a student working as a freelance data engineer That means...
    - 👯 I'm always open for freelance gigs and contract based opportunitites
    - 💬 I'm looking to collaborate and create some cool content that we can share with the community
