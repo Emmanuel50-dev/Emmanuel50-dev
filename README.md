@@ -8,7 +8,7 @@ I am a Passionate Python developer with experience in software development, data
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See [Myportfolio](https://github.com/Emmanuel50-dev?tab=repositories)
-* ✉️  You can contact me at [here](mailto:aukoemmanuel50@gmail.com)
+* ✉️  You can contact me [here](mailto:aukoemmanuel50@gmail.com)
 * 🧠  I'm currently learning Azure Cloud (already worked with AWS & GCP)
 * 🤝  I'm open to collaborating on Python-based software development projects
 * ⚡  I once challenged a computer to a game of rock-paper-scissors... and won!
